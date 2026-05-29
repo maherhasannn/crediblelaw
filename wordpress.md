@@ -3,7 +3,7 @@ Write a 4,000–8,000 word authoritative article on business bankruptcy, commerc
 
 
 ---
-name: bk-wp
+name: wordpress.md
 description: "Write a 4,000–8,000 word authoritative article on business bankruptcy, commercial restructuring, business asset protection, MCA litigation, UCC liens, bank levies, judgments, or distressed-business survival. Use this skill whenever the user asks for a long-form legal/financial article, blog post, pillar page, or WordPress post in the bankruptcy or commercial-debt-defense space — including phrasings like \"write an article on Chapter 11,\" \"draft a post about MCA defense,\" \"I need a pillar page on asset protection,\" or any request for SEO content targeting distressed business owners. The output is structured for organic search, Google AI Overviews, ChatGPT/Gemini/Claude/Perplexity retrieval, and conversion of panicked, high-intent readers."
 ---
  
