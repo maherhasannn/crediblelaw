@@ -1,5 +1,5 @@
 ---
-name: schema
+name: schema.md
 description: Generate a complete enterprise-level JSON-LD schema @graph for Credible Law pages (bankruptcy, business debt, MCA defense, asset protection, Chapter 11, Subchapter V, UCC liens, bank levies, judgment defense, creditor lawsuits, commercial litigation). The user provides a page slug plus the full page content; the skill outputs only the final JSON-LD script tag — Google-indexable, ready to paste into WordPress. Use whenever the user pastes Credible Law page content and asks for schema, JSON-LD, structured data, or anything along those lines.
 ---
 
