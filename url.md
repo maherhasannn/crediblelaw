@@ -1,5 +1,5 @@
 ---
-name: crediblelaw-url
+name: url
 description: "The canonical URL architecture and page map for the Credible Law site (business bankruptcy, Chapter 11, Subchapter V, MCA-to-bankruptcy, business distress/survival, procedural authority, and industry-specific restructuring pages). Use whenever the user needs a slug/URL for a Credible Law page, asks where a topic should live on the site, wants internal-linking guidance, asks what page to build next, or needs to confirm a page already exists. Returns exact slugs, tier/cluster placement, and the interlink logic between tiers. Pair with bk-wp (article body) and crediblelaw-schema (JSON-LD)."
 ---
  
