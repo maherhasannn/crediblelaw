@@ -9,9 +9,9 @@ Reads credentials from environment variables (loaded by the SessionStart hook
 from .env) or falls back to .env directly if running locally.
 
 Content workflow before calling this script:
-    1. /crediblelaw-url  — pick or mint a slug
-    2. /bk-wp            — write the 4,000–8,000 word article
-    3. /crediblelaw-schema — generate the JSON-LD <script> block
+    1. /url  — pick or mint a slug
+    2. /wordpress           — write the 4,000–8,000 word article
+    3. /schema — generate the JSON-LD <script> block
     4. Verify all links
     5. Set TITLE, SLUG, CONTENT, and SCHEMA below, then run this script.
 """
@@ -50,20 +50,20 @@ API_ENDPOINT = os.environ.get("WP_API_ENDPOINT",
 
 
 # ── Draft content — fill these in before running ──────────────────────────────
-# Step 1: slug from /crediblelaw-url
-# Step 2: article body from /bk-wp (Gutenberg block HTML)
-# Step 3: schema block from /crediblelaw-schema (raw <script> tag)
+# Step 1: slug from /url
+# Step 2: article body from /wordpress (Gutenberg block HTML)
+# Step 3: schema block from /schema (raw <script> tag)
 
-TITLE = ""   # SEO title from the /bk-wp deliverables block
+TITLE = ""   # SEO title from the /wordpress deliverables block
 
 SLUG  = ""   # e.g. "subchapter-v-mca-debt"
 
-# Full Gutenberg HTML from /bk-wp, with the schema appended as a wp:html block
+# Full Gutenberg HTML from /wordpress, with the schema appended as a wp:html block
 CONTENT = """
-<!-- paste article content from /bk-wp here -->
+<!-- paste article content from /wordpress here -->
 
 <!-- wp:html -->
-<!-- paste <script type="application/ld+json"> block from /crediblelaw-schema here -->
+<!-- paste <script type="application/ld+json"> block from /schema here -->
 <!-- /wp:html -->
 """.strip()
 
@@ -78,7 +78,7 @@ def main():
 
     if not TITLE or not SLUG or not CONTENT:
         print("ERROR: TITLE, SLUG, and CONTENT must all be filled in before posting.")
-        print("  Complete the /crediblelaw-url → /bk-wp → /crediblelaw-schema workflow first.")
+        print("  Complete the /url → /wordpress → /schema workflow first.")
         sys.exit(1)
 
     credentials = base64.b64encode(f"{USERNAME}:{APP_PASSWORD}".encode()).decode()
