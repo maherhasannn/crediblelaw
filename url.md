@@ -359,7 +359,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | URL |
 |---|-----|
 | ✅ | `/chapter-11-bankruptcy-for-small-business/` |
-| ☐ | `/chapter-11-bankruptcy-vs-business-closure/` |
+| ✅ | `/chapter-11-bankruptcy-vs-business-closure/` |
 | ☐ | `/chapter-11-bankruptcy-vs-subchapter-v/` |
 | ☐ | `/how-much-does-chapter-11-cost/` |
 | ☐ | `/how-long-does-chapter-11-take/` |
