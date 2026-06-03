@@ -367,7 +367,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/chapter-11-bankruptcy-for-s-corporation/` |
 | ☐ | `/chapter-11-bankruptcy-for-c-corporation/` |
 | ☐ | `/emergency-chapter-11-bankruptcy-filing/` |
-| ☐ | `/chapter-11-bankruptcy-stop-lawsuits/` |
+| ✅ | `/chapter-11-bankruptcy-stop-lawsuits/` |
 | ✅ | `/chapter-11-bankruptcy-stop-bank-levy/` |
 | ☐ | `/chapter-11-bankruptcy-stop-foreclosure/` |
 | ☐ | `/chapter-11-bankruptcy-stop-creditor-harassment/` |
@@ -435,7 +435,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/subchapter-v-bankruptcy/` |
 | ☐ | `/subchapter-v-bankruptcy-lawyer/` |
 | ✅ | `/chapter-11-bankruptcy-for-small-business/` |
-| ☐ | `/chapter-11-bankruptcy-stop-lawsuits/` |
+| ✅ | `/chapter-11-bankruptcy-stop-lawsuits/` |
 | ✅ | `/chapter-11-bankruptcy-stop-bank-levy/` |
 | ☐ | `/chapter-11-bankruptcy-stop-mca-lawsuits/` |
 | ☐ | `/business-bankruptcy-after-mca-default/` |
