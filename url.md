@@ -366,7 +366,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/chapter-11-bankruptcy-for-llc/` |
 | ☐ | `/chapter-11-bankruptcy-for-s-corporation/` |
 | ☐ | `/chapter-11-bankruptcy-for-c-corporation/` |
-| ☐ | `/emergency-chapter-11-bankruptcy-filing/` |
+| ✅ | `/emergency-chapter-11-bankruptcy-filing/` |
 | ✅ | `/chapter-11-bankruptcy-stop-lawsuits/` |
 | ✅ | `/chapter-11-bankruptcy-stop-bank-levy/` |
 | ☐ | `/chapter-11-bankruptcy-stop-foreclosure/` |
@@ -431,7 +431,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/orange-county-subchapter-v-bankruptcy-lawyer/` |
 | ☐ | `/riverside-subchapter-v-bankruptcy-lawyer/` |
 | ☐ | `/san-bernardino-subchapter-v-bankruptcy-lawyer/` |
-| ☐ | `/emergency-chapter-11-bankruptcy-filing/` |
+| ✅ | `/emergency-chapter-11-bankruptcy-filing/` |
 | ☐ | `/subchapter-v-bankruptcy/` |
 | ☐ | `/subchapter-v-bankruptcy-lawyer/` |
 | ✅ | `/chapter-11-bankruptcy-for-small-business/` |
