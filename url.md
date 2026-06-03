@@ -10,22 +10,6 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 ## How to use this
  
 - **Need a URL for a page?** Find the topic below, use the exact slug. Don't invent new slugs if one already exists.
-- **Topic not listed?** Slot it into the closest tier, mint a slug in that tier's style (lowercase, hyphenated, `-san-diego` suffix only for geo-commercial pages), and tell the user it's a new addition.
-- **Internal linking?** Use the tier interlink logic at the bottom.
-- All slugs are root-relative and end with a trailing slash.
-
----
-name: url.md
-description: "The canonical URL architecture and page map for the Credible Law site (business bankruptcy, Chapter 11, Subchapter V, MCA-to-bankruptcy, business distress/survival, procedural authority, and industry-specific restructuring pages). Use whenever the user needs a slug/URL for a Credible Law page, asks where a topic should live on the site, wants internal-linking guidance, asks what page to build next, or needs to confirm a page already exists. Returns exact slugs, tier/cluster placement, and the interlink logic between tiers. Pair with bk-wp (article body) and crediblelaw-schema (JSON-LD)."
----
- 
-# Credible Law — URL Architecture & Page Map
- 
-Single source of truth for Credible Law page slugs and where any topic belongs. When generating an article (bk-wp) or schema (crediblelaw-schema), pull the canonical slug from here so URLs stay consistent across the site.
- 
-## How to use this
- 
-- **Need a URL for a page?** Find the topic below, use the exact slug. Don't invent new slugs if one already exists.
 - All slugs are root-relative and end with a trailing slash.
 - **Never repeat a URL** Find a slug that hasn't been checked off yet. If there are none, then do nothing.
 
