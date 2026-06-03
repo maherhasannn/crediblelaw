@@ -180,7 +180,38 @@ Place CTA moments at three points minimum:
 2. **Mid-article** — typically after the most pain-heavy section (MCA litigation or bank levy)
 3. **End** — a firmer "next step" CTA tied to a specific action (emergency consultation, strategy call, document review)
 CTA language matches reader state: urgent but not panicked, strategic but not corporate. "Schedule a confidential strategy session" outperforms "Contact us today."
- 
+
+Template examples: 
+
+<div style="border:2px solid #b91c1c; background:#fff5f5; padding:24px; border-radius:10px; margin:28px 0;">
+  <h3 style="margin-top:0; color:#991b1b;">Served With an MCA Lawsuit in {city}?</h3>
+  <p style="font-size:17px; line-height:1.6; color:#222;">
+    Merchant cash advance lawsuits can move fast. If your Garland business received a summons, complaint, demand letter, arbitration notice, or default warning, immediate legal action may help protect your business before a judgment is entered.
+  </p>
+  <a href="tel:8882010441" style="display:inline-block; background:#b91c1c; color:#fff; padding:14px 22px; border-radius:6px; text-decoration:none; font-weight:bold;">
+    Get Emergency MCA Lawsuit Help
+  </a>
+</div>
+
+<div style="border:2px solid #1e3a8a; background:#eff6ff; padding:24px; border-radius:10px; margin:28px 0;">
+  <h3 style="margin-top:0; color:#1e3a8a;">MCA Company Frozen Your Business Bank Account?</h3>
+  <p style="font-size:17px; line-height:1.6; color:#222;">
+    If an MCA funder is draining your account through ACH withdrawals, enforcing a judgment, or interfering with payroll and operations, your business may need urgent legal intervention to stop collections and evaluate defense options.
+  </p>
+  <a href="tel:8882010441" style="display:inline-block; background:#1e3a8a; color:#fff; padding:14px 22px; border-radius:6px; text-decoration:none; font-weight:bold;">
+    Call Now for MCA Defense
+  </a>
+</div>
+
+<div style="border:2px solid #065f46; background:#ecfdf5; padding:24px; border-radius:10px; margin:28px 0;">
+  <h3 style="margin-top:0; color:#065f46;">Need to Settle or Fight an MCA Debt?</h3>
+  <p style="font-size:17px; line-height:1.6; color:#222;">
+    Whether your {city} business is dealing with stacked advances, a UCC lien, aggressive collections, or a personal guarantee claim, legal counsel may help negotiate, defend, or restructure the dispute before it becomes more damaging.
+  </p>
+  <a href="tel:8882010441" style="display:inline-block; background:#065f46; color:#fff; padding:14px 22px; border-radius:6px; text-decoration:none; font-weight:bold;">
+    Get Legal Help Today
+  </a>
+</div>
 ---
  
 ## Required final deliverables
