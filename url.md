@@ -358,7 +358,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 
 | ☐ | URL |
 |---|-----|
-| ☐ | `/chapter-11-bankruptcy-for-small-business/` |
+| ✅ | `/chapter-11-bankruptcy-for-small-business/` |
 | ☐ | `/chapter-11-bankruptcy-vs-business-closure/` |
 | ☐ | `/chapter-11-bankruptcy-vs-subchapter-v/` |
 | ☐ | `/how-much-does-chapter-11-cost/` |
@@ -434,7 +434,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/emergency-chapter-11-bankruptcy-filing/` |
 | ☐ | `/subchapter-v-bankruptcy/` |
 | ☐ | `/subchapter-v-bankruptcy-lawyer/` |
-| ☐ | `/chapter-11-bankruptcy-for-small-business/` |
+| ✅ | `/chapter-11-bankruptcy-for-small-business/` |
 | ☐ | `/chapter-11-bankruptcy-stop-lawsuits/` |
 | ☐ | `/chapter-11-bankruptcy-stop-bank-levy/` |
 | ☐ | `/chapter-11-bankruptcy-stop-mca-lawsuits/` |
