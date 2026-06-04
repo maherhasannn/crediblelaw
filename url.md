@@ -369,7 +369,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ✅ | `/emergency-chapter-11-bankruptcy-filing/` |
 | ✅ | `/chapter-11-bankruptcy-stop-lawsuits/` |
 | ✅ | `/chapter-11-bankruptcy-stop-bank-levy/` |
-| ☐ | `/chapter-11-bankruptcy-stop-foreclosure/` |
+| ✅ | `/chapter-11-bankruptcy-stop-foreclosure/` |
 | ☐ | `/chapter-11-bankruptcy-stop-creditor-harassment/` |
 | ☐ | `/chapter-11-bankruptcy-stop-ucc-foreclosure/` |
 | ☐ | `/chapter-11-bankruptcy-stop-mca-lawsuits/` |
