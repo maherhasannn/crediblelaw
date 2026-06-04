@@ -363,7 +363,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/chapter-11-bankruptcy-vs-subchapter-v/` |
 | ☐ | `/how-much-does-chapter-11-cost/` |
 | ☐ | `/how-long-does-chapter-11-take/` |
-| ☐ | `/chapter-11-bankruptcy-for-llc/` |
+| ✅ | `/chapter-11-bankruptcy-for-llc/` |
 | ☐ | `/chapter-11-bankruptcy-for-s-corporation/` |
 | ☐ | `/chapter-11-bankruptcy-for-c-corporation/` |
 | ✅ | `/emergency-chapter-11-bankruptcy-filing/` |
