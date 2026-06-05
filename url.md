@@ -39,7 +39,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 
 | ☐ | URL |
 |---|-----|
-| ☐ | `/mca-restraining-notice/` |
+| ✅ | `/mca-restraining-notice/` |
 | ☐ | `/mca-turnover-proceeding/` |
 | ☐ | `/mca-turnover-orders/` |
 | ☐ | `/mca-subpoena-bank-records/` |
