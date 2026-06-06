@@ -394,7 +394,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | URL |
 |---|-----|
 | ☐ | `/mca-bankruptcy-options/` |
-| ☐ | `/can-bankruptcy-stop-mca-lawsuit/` |
+| ✅ | `/can-bankruptcy-stop-mca-lawsuit/` |
 | ✅ | `/can-bankruptcy-stop-ach-withdrawals/` |
 | ☐ | `/can-bankruptcy-remove-ucc-lien/` |
 | ☐ | `/mca-vs-bankruptcy/` |
@@ -439,7 +439,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ✅ | `/chapter-11-bankruptcy-stop-bank-levy/` |
 | ☐ | `/chapter-11-bankruptcy-stop-mca-lawsuits/` |
 | ☐ | `/business-bankruptcy-after-mca-default/` |
-| ☐ | `/can-bankruptcy-stop-mca-lawsuit/` |
+| ✅ | `/can-bankruptcy-stop-mca-lawsuit/` |
 | ✅ | `/can-bankruptcy-stop-ach-withdrawals/` |
 | ✅ | `/mca-settlement-vs-bankruptcy/` |
 | ☐ | `/chapter-11-for-business-with-mca-debt/` |
