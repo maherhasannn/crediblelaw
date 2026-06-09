@@ -48,7 +48,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/mca-commercial-division-lawsuit/` |
 | ✅ | `/mca-arbitration-vs-lawsuit/` |
 | ✅ | `/mca-confession-of-judgment-enforcement/` |
-| ☐ | `/mca-venue-clause-defense/` |
+| ✅ | `/mca-venue-clause-defense/` |
 | ☐ | `/mca-personal-jurisdiction-defense/` |
 | ✅ | `/mca-collections-process/` |
 | ✅ | `/mca-post-judgment-collections/` |
