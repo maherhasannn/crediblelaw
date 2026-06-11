@@ -31,33 +31,33 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/mca-froze-my-operating-account/` |
 | ☐ | `/mca-seized-my-business-income/` |
 | ☐ | `/mca-taking-all-my-revenue/` |
-| ✅ | `/mca-cash-flow-crisis/` |
-| ✅ | `/mca-default-emergency/` |
+| ☐ | `/mca-cash-flow-crisis/` |
+| ☐ | `/mca-default-emergency/` |
 | ☐ | `/mca-creditor-remedies/` |
 
 ## MCA — Procedural / Enforcement
 
 | ☐ | URL |
 |---|-----|
-| ✅ | `/mca-restraining-notice/` |
-| ✅ | `/mca-turnover-proceeding/` |
+| ☐ | `/mca-restraining-notice/` |
+| ☐ | `/mca-turnover-proceeding/` |
 | ☐ | `/mca-turnover-orders/` |
 | ☐ | `/mca-subpoena-bank-records/` |
 | ☐ | `/mca-marshall-levy/` |
 | ☐ | `/mca-bank-execution/` |
 | ☐ | `/mca-commercial-division-lawsuit/` |
-| ✅ | `/mca-arbitration-vs-lawsuit/` |
-| ✅ | `/mca-confession-of-judgment-enforcement/` |
-| ✅ | `/mca-venue-clause-defense/` |
+| ☐ | `/mca-arbitration-vs-lawsuit/` |
+| ☐ | `/mca-confession-of-judgment-enforcement/` |
+| ☐ | `/mca-venue-clause-defense/` |
 | ☐ | `/mca-personal-jurisdiction-defense/` |
-| ✅ | `/mca-collections-process/` |
-| ✅ | `/mca-post-judgment-collections/` |
+| ☐ | `/mca-collections-process/` |
+| ☐ | `/mca-post-judgment-collections/` |
 | ☐ | `/mca-information-subpoenas/` |
 | ☐ | `/mca-marshall-enforcement/` |
 | ☐ | `/mca-property-execution/` |
 | ☐ | `/mca-post-judgment-discovery/` |
 | ☐ | `/mca-freeze-order/` |
-| ✅ | `/mca-enforcement-proceedings/` |
+| ☐ | `/mca-enforcement-proceedings/` |
 | ☐ | `/mca-civil-procedure-defense/` |
 | ☐ | `/mca-judgment-collection-process/` |
 
@@ -360,7 +360,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 |---|-----|
 | ✅ | `/chapter-11-bankruptcy-for-small-business/` |
 | ✅ | `/chapter-11-bankruptcy-vs-business-closure/` |
-| ✅ | `/chapter-11-bankruptcy-vs-subchapter-v/` |
+| ☐ | `/chapter-11-bankruptcy-vs-subchapter-v/` |
 | ☐ | `/how-much-does-chapter-11-cost/` |
 | ☐ | `/how-long-does-chapter-11-take/` |
 | ✅ | `/chapter-11-bankruptcy-for-llc/` |
@@ -369,10 +369,10 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ✅ | `/emergency-chapter-11-bankruptcy-filing/` |
 | ✅ | `/chapter-11-bankruptcy-stop-lawsuits/` |
 | ✅ | `/chapter-11-bankruptcy-stop-bank-levy/` |
-| ✅ | `/chapter-11-bankruptcy-stop-foreclosure/` |
-| ✅ | `/chapter-11-bankruptcy-stop-creditor-harassment/` |
+| ☐ | `/chapter-11-bankruptcy-stop-foreclosure/` |
+| ☐ | `/chapter-11-bankruptcy-stop-creditor-harassment/` |
 | ☐ | `/chapter-11-bankruptcy-stop-ucc-foreclosure/` |
-| ✅ | `/chapter-11-bankruptcy-stop-mca-lawsuits/` |
+| ☐ | `/chapter-11-bankruptcy-stop-mca-lawsuits/` |
 
 ## Bankruptcy — Subchapter V Cluster
 
@@ -382,7 +382,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/subchapter-v-bankruptcy-lawyer/` |
 | ☐ | `/subchapter-v-bankruptcy-requirements/` |
 | ☐ | `/subchapter-v-vs-chapter-11/` |
-| ✅ | `/subchapter-v-for-small-business/` |
+| ☐ | `/subchapter-v-for-small-business/` |
 | ☐ | `/subchapter-v-debt-limits/` |
 | ☐ | `/subchapter-v-confirmation-process/` |
 | ☐ | `/subchapter-v-plan-of-reorganization/` |
@@ -394,7 +394,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | URL |
 |---|-----|
 | ☐ | `/mca-bankruptcy-options/` |
-| ✅ | `/can-bankruptcy-stop-mca-lawsuit/` |
+| ☐ | `/can-bankruptcy-stop-mca-lawsuit/` |
 | ✅ | `/can-bankruptcy-stop-ach-withdrawals/` |
 | ☐ | `/can-bankruptcy-remove-ucc-lien/` |
 | ☐ | `/mca-vs-bankruptcy/` |
@@ -402,7 +402,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/chapter-11-for-business-with-mca-debt/` |
 | ☐ | `/subchapter-v-for-mca-debt/` |
 | ☐ | `/multiple-mcas-and-bankruptcy/` |
-| ✅ | `/mca-settlement-vs-bankruptcy/` |
+| ☐ | `/mca-settlement-vs-bankruptcy/` |
 
 ## Bankruptcy — Industry Pages
 
@@ -437,11 +437,11 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ✅ | `/chapter-11-bankruptcy-for-small-business/` |
 | ✅ | `/chapter-11-bankruptcy-stop-lawsuits/` |
 | ✅ | `/chapter-11-bankruptcy-stop-bank-levy/` |
-| ✅ | `/chapter-11-bankruptcy-stop-mca-lawsuits/` |
+| ☐ | `/chapter-11-bankruptcy-stop-mca-lawsuits/` |
 | ☐ | `/business-bankruptcy-after-mca-default/` |
-| ✅ | `/can-bankruptcy-stop-mca-lawsuit/` |
+| ☐ | `/can-bankruptcy-stop-mca-lawsuit/` |
 | ✅ | `/can-bankruptcy-stop-ach-withdrawals/` |
-| ✅ | `/mca-settlement-vs-bankruptcy/` |
+| ☐ | `/mca-settlement-vs-bankruptcy/` |
 | ☐ | `/chapter-11-for-business-with-mca-debt/` |
 
 ## MCA Defense Attorney — Tier 8 (Midwest)
@@ -520,13 +520,13 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 
 | ☐ | URL |
 |---|-----|
-| ✅ | `/business-loan-lawsuit/` |
-| ✅ | `/business-loan-default/` |
+| ☐ | `/business-loan-lawsuit/` |
+| ☐ | `/business-loan-default/` |
 | ☐ | `/business-loan-debt-relief/` |
-| ✅ | `/business-loan-settlement/` |
+| ☐ | `/business-loan-settlement/` |
 | ☐ | `/business-debt-lawyer/` |
 | ☐ | `/commercial-debt-attorney/` |
-| ✅ | `/business-bank-account-frozen/` |
+| ☐ | `/business-bank-account-frozen/` |
 | ☐ | `/business-account-levy/` |
 | ☐ | `/lender-froze-my-business-account/` |
 | ☐ | `/business-loan-ach-withdrawals/` |
@@ -536,7 +536,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/business-funding-company-lawsuit/` |
 | ☐ | `/revenue-advance-lawsuit/` |
 | ☐ | `/future-receivables-lawsuit/` |
-| ✅ | `/business-loan-restructuring/` |
+| ☐ | `/business-loan-restructuring/` |
 | ☐ | `/stop-business-loan-collections/` |
-| ✅ | `/lender-suing-my-business/` |
-| ☐ | `/commercial-loan-lawsuit/` |
+| ☐ | `/lender-suing-my-business/` |
+| ✅ | `/commercial-loan-lawsuit/` |
