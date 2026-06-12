@@ -399,7 +399,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/can-bankruptcy-remove-ucc-lien/` |
 | ☐ | `/mca-vs-bankruptcy/` |
 | ☐ | `/business-bankruptcy-after-mca-default/` |
-| ☐ | `/chapter-11-for-business-with-mca-debt/` |
+| ✅ | `/chapter-11-for-business-with-mca-debt/` |
 | ☐ | `/subchapter-v-for-mca-debt/` |
 | ☐ | `/multiple-mcas-and-bankruptcy/` |
 | ☐ | `/mca-settlement-vs-bankruptcy/` |
@@ -442,7 +442,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/can-bankruptcy-stop-mca-lawsuit/` |
 | ✅ | `/can-bankruptcy-stop-ach-withdrawals/` |
 | ☐ | `/mca-settlement-vs-bankruptcy/` |
-| ☐ | `/chapter-11-for-business-with-mca-debt/` |
+| ✅ | `/chapter-11-for-business-with-mca-debt/` |
 
 ## MCA Defense Attorney — Tier 8 (Midwest)
 
