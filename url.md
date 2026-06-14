@@ -33,7 +33,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/mca-taking-all-my-revenue/` |
 | ☐ | `/mca-cash-flow-crisis/` |
 | ☐ | `/mca-default-emergency/` |
-| ☐ | `/mca-creditor-remedies/` |
+| ✅ | `/mca-creditor-remedies/` |
 
 ## MCA — Procedural / Enforcement
 
