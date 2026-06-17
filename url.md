@@ -52,7 +52,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/mca-personal-jurisdiction-defense/` |
 | ✅ | `/mca-collections-process/` |
 | ☐ | `/mca-post-judgment-collections/` |
-| ☐ | `/mca-information-subpoenas/` |
+| ✅ | `/mca-information-subpoenas/` |
 | ☐ | `/mca-marshall-enforcement/` |
 | ☐ | `/mca-property-execution/` |
 | ☐ | `/mca-post-judgment-discovery/` |
