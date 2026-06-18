@@ -521,7 +521,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | URL |
 |---|-----|
 | ☐ | `/business-loan-lawsuit/` |
-| ☐ | `/business-loan-default/` |
+| ✅ | `/business-loan-default/` |
 | ☐ | `/business-loan-debt-relief/` |
 | ☐ | `/business-loan-settlement/` |
 | ☐ | `/business-debt-lawyer/` |
