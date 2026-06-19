@@ -378,7 +378,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 
 | ☐ | URL |
 |---|-----|
-| ☐ | `/subchapter-v-bankruptcy/` |
+| ✅ | `/subchapter-v-bankruptcy/` |
 | ☐ | `/subchapter-v-bankruptcy-lawyer/` |
 | ☐ | `/subchapter-v-bankruptcy-requirements/` |
 | ☐ | `/subchapter-v-vs-chapter-11/` |
@@ -432,7 +432,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/riverside-subchapter-v-bankruptcy-lawyer/` |
 | ☐ | `/san-bernardino-subchapter-v-bankruptcy-lawyer/` |
 | ✅ | `/emergency-chapter-11-bankruptcy-filing/` |
-| ☐ | `/subchapter-v-bankruptcy/` |
+| ✅ | `/subchapter-v-bankruptcy/` |
 | ☐ | `/subchapter-v-bankruptcy-lawyer/` |
 | ✅ | `/chapter-11-bankruptcy-for-small-business/` |
 | ✅ | `/chapter-11-bankruptcy-stop-lawsuits/` |
