@@ -242,7 +242,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/can-i-close-business-with-mca-debt/` |
 | ☐ | `/can-mca-take-my-personal-bank-account/` |
 | ☐ | `/can-mca-sue-my-spouse/` |
-| ☐ | `/can-mca-pierce-the-corporate-veil/` |
+| ✅ | `/can-mca-pierce-the-corporate-veil/` |
 | ☐ | `/can-mca-take-my-sba-loan/` |
 | ☐ | `/can-mca-stop-credit-card-processing/` |
 | ☐ | `/can-mca-take-future-receivables/` |
