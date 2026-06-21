@@ -528,7 +528,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/commercial-debt-attorney/` |
 | ✅ | `/business-bank-account-frozen/` |
 | ☐ | `/business-account-levy/` |
-| ☐ | `/lender-froze-my-business-account/` |
+| ✅ | `/lender-froze-my-business-account/` |
 | ☐ | `/business-loan-ach-withdrawals/` |
 | ☐ | `/working-capital-loan-lawsuit/` |
 | ☐ | `/working-capital-loan-debt-relief/` |
