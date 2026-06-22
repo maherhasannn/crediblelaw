@@ -360,7 +360,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 |---|-----|
 | ✅ | `/chapter-11-bankruptcy-for-small-business/` |
 | ✅ | `/chapter-11-bankruptcy-vs-business-closure/` |
-| ☐ | `/chapter-11-bankruptcy-vs-subchapter-v/` |
+| ✅ | `/chapter-11-bankruptcy-vs-subchapter-v/` |
 | ☐ | `/how-much-does-chapter-11-cost/` |
 | ☐ | `/how-long-does-chapter-11-take/` |
 | ✅ | `/chapter-11-bankruptcy-for-llc/` |
@@ -383,7 +383,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/subchapter-v-bankruptcy-requirements/` |
 | ☐ | `/subchapter-v-vs-chapter-11/` |
 | ☐ | `/subchapter-v-for-small-business/` |
-| ☐ | `/subchapter-v-debt-limits/` |
+| ✅ | `/subchapter-v-debt-limits/` |
 | ☐ | `/subchapter-v-confirmation-process/` |
 | ☐ | `/subchapter-v-plan-of-reorganization/` |
 | ☐ | `/subchapter-v-benefits/` |
