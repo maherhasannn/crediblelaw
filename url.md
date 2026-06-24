@@ -44,7 +44,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ✅ | `/mca-turnover-orders/` |
 | ☐ | `/mca-subpoena-bank-records/` |
 | ☐ | `/mca-marshall-levy/` |
-| ☐ | `/mca-bank-execution/` |
+| ✅ | `/mca-bank-execution/` |
 | ☐ | `/mca-commercial-division-lawsuit/` |
 | ✅ | `/mca-arbitration-vs-lawsuit/` |
 | ✅ | `/mca-confession-of-judgment-enforcement/` |
