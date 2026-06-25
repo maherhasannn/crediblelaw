@@ -20,7 +20,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | URL |
 |---|-----|
 | ☐ | `/mca-freezing-all-business-cash-flow/` |
-| ☐ | `/mca-debt-emergency/` |
+| ✅ | `/mca-debt-emergency/` |
 | ☐ | `/mca-taking-daily-payments/` |
 | ☐ | `/mca-ruined-my-business/` |
 | ☐ | `/mca-destroyed-my-cash-flow/` |
