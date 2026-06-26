@@ -27,7 +27,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/business-drowning-in-mca-debt/` |
 | ✅ | `/cant-afford-mca-payments/` |
 | ☐ | `/mca-stress-and-anxiety/` |
-| ☐ | `/mca-company-threatening-my-business/` |
+| ✅ | `/mca-company-threatening-my-business/` |
 | ☐ | `/mca-froze-my-operating-account/` |
 | ☐ | `/mca-seized-my-business-income/` |
 | ☐ | `/mca-taking-all-my-revenue/` |
