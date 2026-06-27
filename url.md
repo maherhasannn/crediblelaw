@@ -537,6 +537,6 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/revenue-advance-lawsuit/` |
 | ☐ | `/future-receivables-lawsuit/` |
 | ✅ | `/business-loan-restructuring/` |
-| ☐ | `/stop-business-loan-collections/` |
+| ✅ | `/stop-business-loan-collections/` |
 | ☐ | `/lender-suing-my-business/` |
 | ✅ | `/commercial-loan-lawsuit/` |
