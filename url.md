@@ -55,7 +55,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ✅ | `/mca-information-subpoenas/` |
 | ☐ | `/mca-marshall-enforcement/` |
 | ☐ | `/mca-property-execution/` |
-| ☐ | `/mca-post-judgment-discovery/` |
+| ✅ | `/mca-post-judgment-discovery/` |
 | ☐ | `/mca-freeze-order/` |
 | ✅ | `/mca-enforcement-proceedings/` |
 | ☐ | `/mca-civil-procedure-defense/` |
