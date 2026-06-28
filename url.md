@@ -23,7 +23,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ✅ | `/mca-debt-emergency/` |
 | ✅ | `/mca-taking-daily-payments/` |
 | ✅ | `/mca-ruined-my-business/` |
-| ☐ | `/mca-destroyed-my-cash-flow/` |
+| ✅ | `/mca-destroyed-my-cash-flow/` |
 | ☐ | `/business-drowning-in-mca-debt/` |
 | ✅ | `/cant-afford-mca-payments/` |
 | ☐ | `/mca-stress-and-anxiety/` |
