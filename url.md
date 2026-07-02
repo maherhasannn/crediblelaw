@@ -30,7 +30,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ✅ | `/mca-company-threatening-my-business/` |
 | ✅ | `/mca-froze-my-operating-account/` |
 | ✅ | `/mca-seized-my-business-income/` |
-| ☐ | `/mca-taking-all-my-revenue/` |
+| ✅ | `/mca-taking-all-my-revenue/` |
 | ✅ | `/mca-cash-flow-crisis/` |
 | ✅ | `/mca-default-emergency/` |
 | ✅ | `/mca-creditor-remedies/` |
