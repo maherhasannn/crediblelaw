@@ -401,7 +401,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ✅ | `/business-bankruptcy-after-mca-default/` |
 | ✅ | `/chapter-11-for-business-with-mca-debt/` |
 | ☐ | `/subchapter-v-for-mca-debt/` |
-| ☐ | `/multiple-mcas-and-bankruptcy/` |
+| ✅ | `/multiple-mcas-and-bankruptcy/` |
 | ✅ | `/mca-settlement-vs-bankruptcy/` |
 
 ## Bankruptcy — Industry Pages
