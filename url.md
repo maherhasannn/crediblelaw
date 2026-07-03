@@ -529,7 +529,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ✅ | `/business-bank-account-frozen/` |
 | ☐ | `/business-account-levy/` |
 | ✅ | `/lender-froze-my-business-account/` |
-| ☐ | `/business-loan-ach-withdrawals/` |
+| ✅ | `/business-loan-ach-withdrawals/` |
 | ☐ | `/working-capital-loan-lawsuit/` |
 | ☐ | `/working-capital-loan-debt-relief/` |
 | ☐ | `/small-business-funding-lawsuit/` |
