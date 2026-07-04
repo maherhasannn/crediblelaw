@@ -409,7 +409,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | URL |
 |---|-----|
 | ✅ | `/chapter-11-bankruptcy-for-restaurants/` |
-| ☐ | `/chapter-11-bankruptcy-for-construction-companies/` |
+| ✅ | `/chapter-11-bankruptcy-for-construction-companies/` |
 | ☐ | `/chapter-11-bankruptcy-for-trucking-companies/` |
 | ☐ | `/chapter-11-bankruptcy-for-medical-practices/` |
 | ☐ | `/chapter-11-bankruptcy-for-dental-practices/` |
