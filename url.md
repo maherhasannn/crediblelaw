@@ -207,7 +207,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ☐ | `/alternative-lending-lawsuit/` |
 | ☐ | `/revenue-based-financing-lawsuit/` |
 | ☐ | `/revenue-based-financing-default/` |
-| ☐ | `/factor-rate-vs-interest-rate/` |
+| ✅ | `/factor-rate-vs-interest-rate/` |
 | ☐ | `/factor-rate-lawsuit/` |
 | ☐ | `/business-cash-advance-collections/` |
 | ☐ | `/business-cash-advance-lawsuit/` |
