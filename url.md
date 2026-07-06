@@ -58,7 +58,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ✅ | `/mca-post-judgment-discovery/` |
 | ✅ | `/mca-freeze-order/` |
 | ✅ | `/mca-enforcement-proceedings/` |
-| ☐ | `/mca-civil-procedure-defense/` |
+| ✅ | `/mca-civil-procedure-defense/` |
 | ✅ | `/mca-judgment-collection-process/` |
 
 ## MCA — Lender-Specific Lawsuit Defense
