@@ -45,7 +45,7 @@ Single source of truth for Credible Law page slugs and where any topic belongs. 
 | ✅ | `/mca-subpoena-bank-records/` |
 | ☐ | `/mca-marshall-levy/` |
 | ✅ | `/mca-bank-execution/` |
-| ☐ | `/mca-commercial-division-lawsuit/` |
+| ✅ | `/mca-commercial-division-lawsuit/` |
 | ✅ | `/mca-arbitration-vs-lawsuit/` |
 | ✅ | `/mca-confession-of-judgment-enforcement/` |
 | ✅ | `/mca-venue-clause-defense/` |
